@@ -1,0 +1,26 @@
+#1
+Rectas_pendientes <- function(m1, m2){
+angulo_rectas <- atan((m2-m1/m1 *m2 + 1))
+return(angulo_rectas)
+}
+Rectas_pendientes(1,1/2)
+
+
+#3
+read.csv("C:/Users/ERICK/Downloads/dataset-fruits.csv")
+df<-read.csv("C:/Users/ERICK/Downloads/dataset-fruits.csv")
+df
+View(df)
+
+
+
+#b
+str(df)
+
+
+
+
+
+
+
+
