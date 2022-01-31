@@ -30,7 +30,8 @@ View(datcli)
 diagwl(datcli, "Estación campo de Marte",80, "2017", mlab="xd", pcol = "orange", tcol = "green",
        pfcol="light blue", sfcol = "blue", shem=FALSE, p3line = F)
 ```
-![image](https://user-images.githubusercontent.com/94203715/151745415-b1e94ea0-9313-4222-ad98-1074fb94e44b.png)
+ejercicio1.jpg 
+su grafic esta ahi 
 
 
 #2. Recrea minuciosamente el siguiente diagrama de la rosa de los vientos (pista: col=rainbow(8)). 
@@ -44,8 +45,8 @@ View(windfr)
 rosavent(windfr,fnum = 3,fint = 4,flab = 1,ang = 3*pi/8,col = rainbow(8),uni = "km/s")
 
 ```
-![image](https://user-images.githubusercontent.com/94203715/151745391-a869a70a-92b1-40e2-bffc-d67cffc868da.png)
-
+su grafico esta ahi
+ejercicio2.jpg 
 #NIVEL 2
 
 #3. Convertir la data diaria de tmax en una data de medias mensuales. 
