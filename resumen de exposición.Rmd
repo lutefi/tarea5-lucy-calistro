@@ -31,6 +31,6 @@ output: github_document
  funciones de unidades : podemos decidir el tamaño de los elementos del documento , cm , mm ,etc
  
   existen 3 metodos para instalar css :
-    esterno: es el mas recomendable , se crea un CSS externo y luego se une al HTML
+    externo : es el más recomendable , se cree un css extenro y luego  se  une al HTML.
    interno: se usa la etiqueta style .
    en linea : se usa el style pero como atributo es la estructura de css .
